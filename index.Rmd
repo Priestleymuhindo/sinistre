@@ -1,5 +1,5 @@
 --- 
-title: "Eruption dun Nyiragongo "
+title: "Rapport sur les sinistrés de l'Eruption du Nyiragongo "
 author: "Priestley Muhindo"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
